@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2_1</folder>
+	<filename>00012528.png</filename>
+	<path>00012528.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>slab</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1404</xmin>
+			<ymin>475</ymin>
+			<xmax>1920</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+</annotation>
